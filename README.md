@@ -1,5 +1,5 @@
 # Rebate_fraud_checking
-Company X is promoting a campaign where users who makes payment by scanning QR code at merchants' store will be rewarded with Rebate.
+Company [anonymised] is promoting a campaign where users who makes payment by scanning QR code at merchants' store will be rewarded with Rebate.
 
 Rebate is determined at 30% of transaction value, capped at $2 per txn.
 
